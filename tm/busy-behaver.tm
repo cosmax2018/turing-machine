@@ -1,0 +1,7 @@
+'busy beaver game
+101R2
+201L2
+301L3
+111R0
+210R3
+311L1

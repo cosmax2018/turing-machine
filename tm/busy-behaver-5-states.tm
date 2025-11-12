@@ -1,0 +1,11 @@
+'busy beaver game 5-states Uwe Schult
+110S3
+101D2
+211D4
+201D3
+310D2
+301S1
+400D5
+411H0
+501S3
+511D1

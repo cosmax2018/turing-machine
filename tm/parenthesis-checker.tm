@@ -1,0 +1,10 @@
+'parenthesis checker
+1((R1
+1))L2
+1XXR1
+100H0
+2(XR3
+200H0
+3XXR3
+2XXL2
+3)XR1

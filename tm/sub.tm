@@ -1,0 +1,15 @@
+'computa la sottrazione ...es di addendi: 110111
+110R2
+211R2
+200R3
+311R3
+300L4
+410L5
+501H0
+511H6
+611L6
+600L7
+700L7
+711L8
+811L8
+800R1

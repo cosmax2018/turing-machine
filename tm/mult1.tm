@@ -1,0 +1,40 @@
+'computa la moltiplicazione
+'es input nastro per x=3 e y=2 
+'codifica: 1111.111
+11.R2
+21AR3
+311R3
+3..R4
+41.R5
+51BR6
+'
+611R7
+6..R8
+711R7
+7..R8
+8.1LA
+811R9
+9.1LA
+911R9
+'
+A11LA
+A..LA
+ABBR5
+'
+5..LB
+BB1LB
+B.1LC
+'
+C..LC
+C11LC
+CAAR2
+'
+2..RD
+D1.RD
+D.1LE
+'
+E..LF
+F..LF
+FA.LG
+GA.LG
+G..H0

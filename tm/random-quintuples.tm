@@ -1,0 +1,15 @@
+'these are the quintuples extracted from the tape  (06-23-2016 at 11:25:31)
+88787
+87878
+78787
+87A00
+AA000
+AAA00
+00AAA
+A0000
+0AAAA
+A0000
+00000
+00000
+00000
+00000
